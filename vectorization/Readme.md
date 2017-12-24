@@ -1,0 +1,3 @@
+# Vectorization
+
+Experimenting on vectorization
